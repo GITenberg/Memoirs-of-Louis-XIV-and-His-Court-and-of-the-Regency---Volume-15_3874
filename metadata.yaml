@@ -1,0 +1,29 @@
+_repo: Memoirs-of-Louis-XIV-and-His-Court-and-of-the-Regency---Volume-15_3874
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Saint-Simon, Louis de Rouvroy, duc de
+    aliases:
+    - Rouvroy, Louis de, duc de Saint-Simon
+    - De Rouvroy, Louis, duc de Saint-Simon
+    birthdate: 1675
+    deathdate: 1755
+    gutenberg_agent_id: '1332'
+    url: http://www.gutenberg.org/2009/agents/1332
+description: ''
+gutenberg_issued: '2004-12-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3874'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'France -- History -- Regency, 1715-1723'
+- !lcsh 'France -- Court and courtiers'
+- !lcc 'DC'
+- !lcsh 'France -- History -- Louis XIV, 1643-1715'
+- GITenberg
+title: Memoirs of Louis XIV and His Court and of the Regency — Volume 15
+url: http://www.gutenberg.org/ebooks/3874
