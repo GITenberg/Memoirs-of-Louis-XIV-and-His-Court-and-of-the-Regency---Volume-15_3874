@@ -1,5 +1,8 @@
 _repo: Memoirs-of-Louis-XIV-and-His-Court-and-of-the-Regency---Volume-15_3874
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Saint-Simon, Louis de Rouvroy, duc de
@@ -11,6 +14,8 @@ creator:
     gutenberg_agent_id: '1332'
     url: http://www.gutenberg.org/2009/agents/1332
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/3874#Memoirs-of-Louis-XIV-and-His-Court-and-of-the-Regency---Volume-15
 gutenberg_issued: '2004-12-03'
 gutenberg_type: Text
 identifiers:
